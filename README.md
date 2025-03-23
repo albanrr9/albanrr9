@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albanrr9&theme=onedark" alt="albanrr9" /></a> </p>
 
-- 🔭 I’m currently working on [RestaurantPOS](https://github.com/albanrr9/RestaurantPOS)
+- 🔭 I’m currently working on [BlogSiteCSE](https://github.com/albanrr9/BlogSiteCSE)
 
 - 📫 How to reach me **albanrr9@gmail.com**
 
